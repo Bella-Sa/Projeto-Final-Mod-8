@@ -3,7 +3,7 @@ Aluna: Isabella Sá
 
 - Banco de dados utilizado:  Postgres em conjunto com Dbeaver
 - A criação foi feita por migrations e toda a integração por Sequelize
-- Projeto cadastro de veículos carros com CRUD, para adicionar um veículo no banco de dados, ler, fazer update em parte(path) e deletar o mesmo.
+- Projeto cadastro de veículos carros com CRUD, para adicionar um veículo no banco de dados, ler, fazer update em parte (patch) e deletar o mesmo.
 
 - Informações Necessárias Para Rodar o Projeto: 6 passos.
 
