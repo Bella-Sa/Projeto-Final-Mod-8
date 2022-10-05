@@ -57,6 +57,4 @@ modelo teste para post:
 - updateCars (patch): http://localhost/cars/passaroId -> se der status 200 funcionou! e ai dê um get para ver a mudança
 - removeCars (delete):http://localhost/cars/passaroId -> se der status 200 funcionou! e ai dê um get para ver que deletou
 
-#� �P�r�o�j�e�t�o�-�F�i�n�a�l�-�M�o�d�-�8�
-�
-�
+
