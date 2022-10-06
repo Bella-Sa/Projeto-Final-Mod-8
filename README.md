@@ -52,7 +52,7 @@ modelo teste para post:
         "preco": 80000000
       }
 
-- getAlCars (get): http://localhost/cars
+- getAllCars (get): http://localhost/cars
 - getCarsById (get): http://localhost/cars/?marca=digiteamarca (Fiat por exemplo)
 - updateCars (patch): http://localhost/cars/passaroId -> se der status 200 funcionou! e ai dê um get para ver a mudança
 - removeCars (delete):http://localhost/cars/passaroId -> se der status 200 funcionou! e ai dê um get para ver que deletou
